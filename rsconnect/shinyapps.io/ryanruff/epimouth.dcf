@@ -1,0 +1,10 @@
+name: epimouth
+title:
+username:
+account: ryanruff
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1378371
+bundleId: 4307174
+url: https://ryanruff.shinyapps.io/epimouth/
+when: 1614989712.82089
